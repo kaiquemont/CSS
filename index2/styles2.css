@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box; /* mantem tudo dentro do espaço sem crescer*/
+            /* box-sizing: content-box; cresce de acosto com a informao q vc coloca */
+             
+}
+
+
+
+
+
+
+
+
+.box{
+    width: 100px;
+    height: 100px;
+    background: #ff1493;
+    padding: 20px;
+    border: 10px solid #0000ff;
+
+
+    /*margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 5px;
+
+    margin: 10px 50px 30px 5px;8/
+    /*       12h  15h  18h  21h   */
+    
+    /* BOX SIZING */
+
+
+    
+    
+}
